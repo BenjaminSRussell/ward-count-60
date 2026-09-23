@@ -197,3 +197,6 @@
 {"n":197,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south gutter. arc left open. 2 steps. The barrel stays for the push."}
 {"n":198,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at Switchyard. Nobody past the south gutter. We push in 3 steps. Arc on the left lane, open."}
 {"n":199,"kind":"place","name":"Switchyard south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard south gutter. Bess keeps the barrel for the push. 4 steps, arc on the left lane, open."}
+{"n":200,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south gutter. arc left open. 5 steps. The barrel stays for the push."}
+{"n":201,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Drydock. Nobody past the south gutter. We push in 6 steps. Arc on the left lane, open."}
+{"n":202,"kind":"place","name":"Drydock south gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock south gutter. Matt keeps the barrel for the push. 7 steps, arc on the left lane, open."}
