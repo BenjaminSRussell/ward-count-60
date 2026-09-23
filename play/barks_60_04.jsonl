@@ -875,3 +875,6 @@
 {"n":875,"kind":"place","name":"Drydock south gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock south gutter. Bess keeps the plywood for the push. 2 steps, arc on the left lane, open."}
 {"n":876,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south gutter. arc left open. 3 steps. The plywood stays for the push."}
 {"n":877,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at High line. Nobody past the south gutter. We push in 4 steps. Arc on the left lane, open."}
+{"n":878,"kind":"place","name":"High line south gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"High line south gutter. Matt keeps the plywood for the push. 5 steps, arc on the left lane, open."}
+{"n":879,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south gutter. arc left open. 6 steps. The plywood stays for the push."}
+{"n":880,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the plywood at High line. Nobody past the south gutter. We push in 7 steps. Arc on the left lane, open."}
