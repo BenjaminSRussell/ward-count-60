@@ -18,3 +18,6 @@
 {"n":18,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east gutter. arc left open. 2 steps. The hydrant stays for the push."}
 {"n":19,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at High line. Nobody past the east gutter. We push in 3 steps. Arc on the left lane, open."}
 {"n":20,"kind":"place","name":"High line east gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line east gutter. Ivo keeps the hydrant for the push. 4 steps, arc on the left lane, open."}
+{"n":21,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east gutter. arc left open. 5 steps. The hydrant stays for the push."}
+{"n":22,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at High line. Nobody past the east gutter. We push in 6 steps. Arc on the left lane, open."}
+{"n":23,"kind":"place","name":"High line east gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line east gutter. Bess keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
