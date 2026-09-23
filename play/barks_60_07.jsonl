@@ -383,3 +383,6 @@
 {"n":383,"kind":"place","name":"Switchyard west stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard west stair. Bess keeps the crate for the push. 4 steps, arc on the left lane, open."}
 {"n":384,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west stair. arc left open. 5 steps. The crate stays for the push."}
 {"n":385,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Drydock. Nobody past the west stair. We push in 6 steps. Arc on the left lane, open."}
+{"n":386,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock west stair. Matt keeps the crate for the push. 7 steps, arc on the left lane, open."}
+{"n":387,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west stair. arc left open. 8 steps. The crate stays for the push."}
+{"n":388,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at Drydock. Nobody past the west stair. We push in 2 steps. Arc on the left lane, open."}
