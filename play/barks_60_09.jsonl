@@ -408,3 +408,6 @@
 {"n":408,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock east stair. Ivo keeps the crate for the push. 6 steps, arc on the left lane, open."}
 {"n":409,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east stair. arc left open. 7 steps. The crate stays for the push."}
 {"n":410,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Drydock. Nobody past the east stair. We push in 8 steps. Arc on the left lane, open."}
+{"n":411,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock east stair. Bess keeps the crate for the push. 2 steps, arc on the left lane, open."}
+{"n":412,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east stair. arc left open. 3 steps. The crate stays for the push."}
+{"n":413,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at High line. Nobody past the east stair. We push in 4 steps. Arc on the left lane, open."}
