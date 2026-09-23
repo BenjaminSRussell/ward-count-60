@@ -372,3 +372,6 @@
 {"n":372,"kind":"place","name":"Switchyard south gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard south gutter. Ivo keeps the drum for the push. 8 steps, arc on the left lane, open."}
 {"n":373,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south gutter. arc left open. 2 steps. The drum stays for the push."}
 {"n":374,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at Switchyard. Nobody past the south gutter. We push in 3 steps. Arc on the left lane, open."}
+{"n":375,"kind":"place","name":"Switchyard south gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard south gutter. Bess keeps the drum for the push. 4 steps, arc on the left lane, open."}
+{"n":376,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south gutter. arc left open. 5 steps. The drum stays for the push."}
+{"n":377,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at Drydock. Nobody past the south gutter. We push in 6 steps. Arc on the left lane, open."}
