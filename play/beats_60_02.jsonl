@@ -366,3 +366,6 @@
 {"n":366,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at High line. Nobody past the east gutter. We push in 6 steps. Arc on the left lane, open."}
 {"n":367,"kind":"place","name":"High line east gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line east gutter. Bess keeps the drum for the push. 7 steps, arc on the left lane, open."}
 {"n":368,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east gutter. arc left open. 8 steps. The drum stays for the push."}
+{"n":369,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at Ward gate. Nobody past the east gutter. We push in 2 steps. Arc on the left lane, open."}
+{"n":370,"kind":"place","name":"Ward gate east gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate east gutter. Matt keeps the badge door for the push. 3 steps, arc on the left lane, open."}
+{"n":371,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east gutter. arc left open. 4 steps. The badge door stays for the push."}
