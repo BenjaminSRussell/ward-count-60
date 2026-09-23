@@ -198,3 +198,6 @@
 {"n":198,"kind":"place","name":"the pier east stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier east stair. Matt keeps the barrel for the push. 6 steps, arc on the left lane, open."}
 {"n":199,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east stair. arc left open. 7 steps. The barrel stays for the push."}
 {"n":200,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at the pier. Nobody past the east stair. We push in 8 steps. Arc on the left lane, open."}
+{"n":201,"kind":"place","name":"the pier east stair","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier east stair. Nia keeps the barrel for the push. 2 steps, arc on the left lane, open."}
+{"n":202,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east stair. arc left open. 3 steps. The barrel stays for the push."}
+{"n":203,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at the pier. Nobody past the east stair. We push in 4 steps. Arc on the left lane, open."}
