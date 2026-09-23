@@ -51,3 +51,6 @@
 {"n":51,"kind":"place","name":"Ward gate north gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate north gutter. Bess keeps the barrel for the push. 5 steps, arc on the left lane, open."}
 {"n":52,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north gutter. arc left open. 6 steps. The barrel stays for the push."}
 {"n":53,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Kessler alley. Nobody past the north gutter. We push in 7 steps. Arc on the left lane, open."}
+{"n":54,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley north gutter. Matt keeps the barrel for the push. 8 steps, arc on the left lane, open."}
+{"n":55,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north gutter. arc left open. 2 steps. The barrel stays for the push."}
+{"n":56,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Kessler alley. Nobody past the north gutter. We push in 3 steps. Arc on the left lane, open."}
