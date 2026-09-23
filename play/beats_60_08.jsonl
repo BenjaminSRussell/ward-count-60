@@ -267,3 +267,6 @@
 {"n":267,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at Kessler alley. Nobody past the west stair. We push in 6 steps. Arc on the left lane, open."}
 {"n":268,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley west stair. Ivo keeps the drum for the push. 7 steps, arc on the left lane, open."}
 {"n":269,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west stair. arc left open. 8 steps. The drum stays for the push."}
+{"n":270,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at Kessler alley. Nobody past the west stair. We push in 2 steps. Arc on the left lane, open."}
+{"n":271,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley west stair. Bess keeps the drum for the push. 3 steps, arc on the left lane, open."}
+{"n":272,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west stair. arc left open. 4 steps. The drum stays for the push."}
