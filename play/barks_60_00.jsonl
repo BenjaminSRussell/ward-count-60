@@ -534,3 +534,6 @@
 {"n":534,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley west gutter. Matt keeps the radio coil for the push. 8 steps, arc on the left lane, open."}
 {"n":535,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west gutter. arc left open. 2 steps. The radio coil stays for the push."}
 {"n":536,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the west gutter. We push in 3 steps. Arc on the left lane, open."}
+{"n":537,"kind":"place","name":"Kessler alley west gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley west gutter. Nia keeps the radio coil for the push. 4 steps, arc on the left lane, open."}
+{"n":538,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west gutter. arc left open. 5 steps. The radio coil stays for the push."}
+{"n":539,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at Kessler alley. Nobody past the west gutter. We push in 6 steps. Arc on the left lane, open."}
