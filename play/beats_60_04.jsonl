@@ -592,3 +592,6 @@
 {"n":592,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at Stockyard fence. Nobody past the north gutter. We push in 6 steps. Arc on the left lane, open."}
 {"n":593,"kind":"place","name":"Stockyard fence north gutter","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence north gutter. Nia keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
 {"n":594,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north gutter. arc left open. 8 steps. The radio coil stays for the push."}
+{"n":595,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at Stockyard fence. Nobody past the north gutter. We push in 2 steps. Arc on the left lane, open."}
+{"n":596,"kind":"place","name":"Stockyard fence north gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence north gutter. Ivo keeps the radio coil for the push. 3 steps, arc on the left lane, open."}
+{"n":597,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north gutter. arc left open. 4 steps. The radio coil stays for the push."}
