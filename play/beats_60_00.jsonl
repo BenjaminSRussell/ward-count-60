@@ -98,3 +98,6 @@
 {"n":98,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at Mast yard. Nobody past the west gutter. We push in 6 steps. Arc on the left lane, open."}
 {"n":99,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard west gutter. Bess keeps the awning for the push. 7 steps, arc on the left lane, open."}
 {"n":100,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west gutter. arc left open. 8 steps. The awning stays for the push."}
+{"n":101,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at Last Light. Nobody past the west gutter. We push in 2 steps. Arc on the left lane, open."}
+{"n":102,"kind":"place","name":"Last Light west gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light west gutter. Matt keeps the awning for the push. 3 steps, arc on the left lane, open."}
+{"n":103,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west gutter. arc left open. 4 steps. The awning stays for the push."}
