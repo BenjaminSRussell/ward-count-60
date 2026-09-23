@@ -389,3 +389,6 @@
 {"n":389,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west stair. arc left open. 2 steps. The drum stays for the push."}
 {"n":390,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at Switchyard. Nobody past the west stair. We push in 3 steps. Arc on the left lane, open."}
 {"n":391,"kind":"place","name":"Switchyard west stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard west stair. Bess keeps the drum for the push. 4 steps, arc on the left lane, open."}
+{"n":392,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west stair. arc left open. 5 steps. The drum stays for the push."}
+{"n":393,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at Drydock. Nobody past the west stair. We push in 6 steps. Arc on the left lane, open."}
+{"n":394,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock west stair. Matt keeps the drum for the push. 7 steps, arc on the left lane, open."}
