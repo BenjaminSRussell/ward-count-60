@@ -686,3 +686,6 @@
 {"n":686,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at the pier. Nobody past the south gutter. We push in 7 steps. Arc on the left lane, open."}
 {"n":687,"kind":"place","name":"the pier south gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier south gutter. Bess keeps the radio coil for the push. 8 steps, arc on the left lane, open."}
 {"n":688,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south gutter. arc left open. 2 steps. The radio coil stays for the push."}
+{"n":689,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at Clinic roof. Nobody past the south gutter. We push in 3 steps. Arc on the left lane, open."}
+{"n":690,"kind":"place","name":"Clinic roof south gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof south gutter. Matt keeps the radio coil for the push. 4 steps, arc on the left lane, open."}
+{"n":691,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south gutter. arc left open. 5 steps. The radio coil stays for the push."}
