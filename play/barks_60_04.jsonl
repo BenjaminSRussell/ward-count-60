@@ -656,3 +656,6 @@
 {"n":656,"kind":"place","name":"South stair north gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair north gutter. Ivo keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
 {"n":657,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north gutter. arc left open. 8 steps. The radio coil stays for the push."}
 {"n":658,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at South stair. Nobody past the north gutter. We push in 2 steps. Arc on the left lane, open."}
+{"n":659,"kind":"place","name":"South stair north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair north gutter. Bess keeps the radio coil for the push. 3 steps, arc on the left lane, open."}
+{"n":660,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north gutter. arc left open. 4 steps. The radio coil stays for the push."}
+{"n":661,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at the pier. Nobody past the north gutter. We push in 5 steps. Arc on the left lane, open."}
