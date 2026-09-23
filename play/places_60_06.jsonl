@@ -352,3 +352,6 @@
 {"n":352,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south gutter. arc left open. 2 steps. The drum stays for the push."}
 {"n":353,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at Clinic roof. Nobody past the south gutter. We push in 3 steps. Arc on the left lane, open."}
 {"n":354,"kind":"place","name":"Clinic roof south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof south gutter. Matt keeps the drum for the push. 4 steps, arc on the left lane, open."}
+{"n":355,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south gutter. arc left open. 5 steps. The drum stays for the push."}
+{"n":356,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at Clinic roof. Nobody past the south gutter. We push in 6 steps. Arc on the left lane, open."}
+{"n":357,"kind":"place","name":"Clinic roof south gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof south gutter. Nia keeps the drum for the push. 7 steps, arc on the left lane, open."}
