@@ -524,3 +524,6 @@
 {"n":524,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the badge door at Clinic roof. Nobody past the south gutter. We push in 6 steps. Arc on the left lane, open."}
 {"n":525,"kind":"place","name":"Clinic roof south gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Clinic roof south gutter. Nia keeps the badge door for the push. 7 steps, arc on the left lane, open."}
 {"n":526,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south gutter. arc left open. 8 steps. The badge door stays for the push."}
+{"n":527,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at Clinic roof. Nobody past the south gutter. We push in 2 steps. Arc on the left lane, open."}
+{"n":528,"kind":"place","name":"Clinic roof south gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof south gutter. Ivo keeps the badge door for the push. 3 steps, arc on the left lane, open."}
+{"n":529,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south gutter. arc left open. 4 steps. The badge door stays for the push."}
