@@ -995,3 +995,6 @@
 {"n":995,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east stair. arc left open. 6 steps. The hydrant stays for the push."}
 {"n":996,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the hydrant at Mast yard. Nobody past the east stair. We push in 7 steps. Arc on the left lane, open."}
 {"n":997,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard east stair. Nia keeps the hydrant for the push. 8 steps, arc on the left lane, open."}
+{"n":998,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east stair. arc left open. 2 steps. The hydrant stays for the push."}
+{"n":999,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at Mast yard. Nobody past the east stair. We push in 3 steps. Arc on the left lane, open."}
+{"n":1000,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard east stair. Ivo keeps the hydrant for the push. 4 steps, arc on the left lane, open."}
