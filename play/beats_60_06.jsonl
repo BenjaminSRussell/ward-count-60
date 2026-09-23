@@ -383,3 +383,6 @@
 {"n":383,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at Drydock. Nobody past the south gutter. We push in 5 steps. Arc on the left lane, open."}
 {"n":384,"kind":"place","name":"Drydock south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock south gutter. Ivo keeps the drum for the push. 6 steps, arc on the left lane, open."}
 {"n":385,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south gutter. arc left open. 7 steps. The drum stays for the push."}
+{"n":386,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at Drydock. Nobody past the south gutter. We push in 8 steps. Arc on the left lane, open."}
+{"n":387,"kind":"place","name":"Drydock south gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock south gutter. Bess keeps the drum for the push. 2 steps, arc on the left lane, open."}
+{"n":388,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south gutter. arc left open. 3 steps. The drum stays for the push."}
