@@ -855,3 +855,6 @@
 {"n":855,"kind":"place","name":"High line east gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line east gutter. Bess keeps the plywood for the push. 7 steps, arc on the left lane, open."}
 {"n":856,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east gutter. arc left open. 8 steps. The plywood stays for the push."}
 {"n":857,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Ward gate. Nobody past the east gutter. We push in 2 steps. Arc on the left lane, open."}
+{"n":858,"kind":"place","name":"Ward gate east gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate east gutter. Matt keeps the hydrant for the push. 3 steps, arc on the left lane, open."}
+{"n":859,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east gutter. arc left open. 4 steps. The hydrant stays for the push."}
+{"n":860,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the hydrant at Ward gate. Nobody past the east gutter. We push in 5 steps. Arc on the left lane, open."}
