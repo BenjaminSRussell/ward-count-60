@@ -127,3 +127,6 @@
 {"n":127,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass south gutter. Bess keeps the barrel for the push. 2 steps, arc on the left lane, open."}
 {"n":128,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south gutter. arc left open. 3 steps. The barrel stays for the push."}
 {"n":129,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Mast yard. Nobody past the south gutter. We push in 4 steps. Arc on the left lane, open."}
+{"n":130,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard south gutter. Matt keeps the barrel for the push. 5 steps, arc on the left lane, open."}
+{"n":131,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south gutter. arc left open. 6 steps. The barrel stays for the push."}
+{"n":132,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Mast yard. Nobody past the south gutter. We push in 7 steps. Arc on the left lane, open."}
