@@ -551,3 +551,6 @@
 {"n":551,"kind":"place","name":"Kessler alley east gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley east gutter. Bess keeps the rebar for the push. 3 steps, arc on the left lane, open."}
 {"n":552,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east gutter. arc left open. 4 steps. The rebar stays for the push."}
 {"n":553,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at the Lot. Nobody past the east gutter. We push in 5 steps. Arc on the left lane, open."}
+{"n":554,"kind":"place","name":"the Lot east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot east gutter. Matt keeps the rebar for the push. 6 steps, arc on the left lane, open."}
+{"n":555,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east gutter. arc left open. 7 steps. The rebar stays for the push."}
+{"n":556,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rebar at the Lot. Nobody past the east gutter. We push in 8 steps. Arc on the left lane, open."}
