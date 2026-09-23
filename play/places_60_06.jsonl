@@ -55,3 +55,6 @@
 {"n":55,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south gutter. arc left open. 6 steps. The shutter stays for the push."}
 {"n":56,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the shutter at High line. Nobody past the south gutter. We push in 7 steps. Arc on the left lane, open."}
 {"n":57,"kind":"place","name":"High line south gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line south gutter. Nia keeps the shutter for the push. 8 steps, arc on the left lane, open."}
+{"n":58,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south gutter. arc left open. 2 steps. The shutter stays for the push."}
+{"n":59,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the shutter at High line. Nobody past the south gutter. We push in 3 steps. Arc on the left lane, open."}
+{"n":60,"kind":"place","name":"High line south gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line south gutter. Ivo keeps the shutter for the push. 4 steps, arc on the left lane, open."}
