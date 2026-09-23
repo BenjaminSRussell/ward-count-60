@@ -723,3 +723,6 @@
 {"n":723,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south gutter. arc left open. 4 steps. The plywood stays for the push."}
 {"n":724,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the plywood at Ward gate. Nobody past the south gutter. We push in 5 steps. Arc on the left lane, open."}
 {"n":725,"kind":"place","name":"Ward gate south gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate south gutter. Nia keeps the plywood for the push. 6 steps, arc on the left lane, open."}
+{"n":726,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south gutter. arc left open. 7 steps. The plywood stays for the push."}
+{"n":727,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the plywood at Ward gate. Nobody past the south gutter. We push in 8 steps. Arc on the left lane, open."}
+{"n":728,"kind":"place","name":"Ward gate south gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate south gutter. Ivo keeps the plywood for the push. 2 steps, arc on the left lane, open."}
