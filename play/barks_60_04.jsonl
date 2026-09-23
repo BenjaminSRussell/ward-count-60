@@ -404,3 +404,6 @@
 {"n":404,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley north gutter. Ivo keeps the badge door for the push. 7 steps, arc on the left lane, open."}
 {"n":405,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north gutter. arc left open. 8 steps. The badge door stays for the push."}
 {"n":406,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at Kessler alley. Nobody past the north gutter. We push in 2 steps. Arc on the left lane, open."}
+{"n":407,"kind":"place","name":"Kessler alley north gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley north gutter. Bess keeps the badge door for the push. 3 steps, arc on the left lane, open."}
+{"n":408,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north gutter. arc left open. 4 steps. The badge door stays for the push."}
+{"n":409,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at the Lot. Nobody past the north gutter. We push in 5 steps. Arc on the left lane, open."}
